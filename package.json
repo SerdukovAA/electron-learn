@@ -1,0 +1,22 @@
+{
+  "name": "electron-learn",
+  "version": "1.0.0",
+  "description": "just learn ",
+  "main": "index.js",
+  "scripts": {
+    "test": "testt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerdukovAA/electron-learn.git"
+  },
+  "author": "SerdukovAA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SerdukovAA/electron-learn/issues"
+  },
+  "homepage": "https://github.com/SerdukovAA/electron-learn#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
